@@ -29,35 +29,61 @@ a {
 
 
 #container1 {
-	background-color: #0075FF;
-}
-
-#container1:hover {
-	background-color: rgb(156, 156, 156);
+	background-color: #4982CF;
 }
 
 #container2 {
-	background-color: #2FB9A8;
+	background-color: #FF6F4C;
 }
 
 #container3 {
-	background-color: #2FB9A8;
+	background-color: #F984CA;
 }
 
 #container4 {
-	background-color: #2FB9A8;
+	background-color: #169B62;
 }
 
 #container5 {
-	background-color: #2FB9A8;
+	background-color: #BB8B41;
 }
 
 #container6 {
-	background-color: #2FB9A8;
+	background-color: #E3ED55;
+}
+
+#container1:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
+}
+
+#container2:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
+}
+
+#container3:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
+}
+
+#container4:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
+}
+
+#container5:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
+}
+
+#container6:hover {
+	background-color: rgb(255, 255, 255);
+	z-index: 1;
 }
 
 
-  
+
   .container span {
 	display: inline-block;
 	animation: rotate 2s infinite linear;
