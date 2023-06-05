@@ -1,0 +1,125 @@
+{
+  "image1": {
+    "name": "Aesop Perfume",
+    "date": "July 2022",
+    "regularity": "Everyday",
+    "price": "￦150,000",
+    "rating": "9/10",
+    "comment": "I wanted to find a new perfume because my previous one discontinued. This one smells really earthy and mossy. Super happy with this one. I’m almost done with it."
+  },
+
+
+  "image2": {
+    "name": "Chanel Lip and Cheek Balm",
+    "date": "May 2023",
+    "regularity": "Everyday",
+    "price": "￦59,000",
+    "rating": "8/10",
+    "comment": "I tried out the one my friend has and I really liked it so I got one for myself. I think the formula and the color is really nice and natural."
+  },
+
+
+  "image3": {
+    "name": "Apple Earphones",
+    "date": "???",
+    "regularity": "Everyday",
+    "price": "￦28,000",
+    "rating": "8/10",
+    "comment": "I used to have Airpods but I accidentally threw them in the washing machine... so I started using the wired earphones and realized they are more convenient in terms of not having to charge."
+  },
+
+  "image4": {
+    "name": "Celine Bluelight Glasses",
+    "date": "April 2023",
+    "regularity": "Almost everyday",
+    "price": "￦272,000",
+    "rating": "9.5/10",
+    "comment": "One of my best purchases so far! I think the square frames are really cute and unique. I added the bluelight lenses and it makes me feel good because I know I'm taking care of my eyes ❛ᴗ❛."
+  },
+
+  "image5": {
+    "name": "Le Labo Hand Cream",
+    "date": "Winter 2022",
+    "regularity": "Once a month",
+    "price": "￦48,000",
+    "rating": "9/10",
+    "comment": "I love hinoki so much I just had to get this hand cream when I first tried it on. The texture is just right too–not too buttery or oily. Highly recommend this one for people who like earthy and woody scent like me!"
+  },
+
+
+  "image6": {
+    "name": "Apple Airpod Max",
+    "date": "December 2022",
+    "regularity": "Almost everyday",
+    "price": "￦900,000",
+    "rating": "7/10",
+    "comment": "This was one of my most impulsive purchases ever. I went to the Apple store to get my macbook fixed and came out the store with Airpod Max. Ooops lol. I definitely think it's not worth the price but since I have them I just use it when I study at a cafe."
+  },
+
+
+  "image7": {
+    "name": "Aesop Lip Balm",
+    "date": "May 2023",
+    "regularity": "Three times a week",
+    "price": "￦23,000",
+    "rating": "9/10",
+    "comment": "I bought this lip balm when I was buying a gift for mom at Aesop. Just bought them to give it a try haha."
+  },
+
+
+  "image8": {
+    "name": "Apple Macbook",
+    "date": "Winter 2021",
+    "regularity": "Everyday, All the time",
+    "price": "￦3,000,000",
+    "rating": "10/10",
+    "comment": "I hate to admit but I can't live without it! All my work is on here and I love listening to music from my macbook."
+  },
+
+  "image9": {
+    "name": "Aesop Pouch",
+    "date": "July 2022",
+    "regularity": "Everyday",
+    "price": "Gift",
+    "rating": "9/10",
+    "comment": "I got it when I bought the perfume and it's perfect for keeping my everyday items together."
+  },
+
+  "image10": {
+    "name": "Wakemake Powder",
+    "date": "April 2023",
+    "regularity": "Everyday",
+    "price": "￦13,000",
+    "rating": "9/10",
+    "comment": ""
+  },
+
+
+  "image11": {
+    "name": "Tissue",
+    "date": "April 2023",
+    "regularity": "Not used yet",
+    "price": "Gift",
+    "rating": "???",
+    "comment": "I got this cute tissue packet as a gift when I bought a mini Astroy Boy figure at a shop. I never took it out of my bag since and it's nice to carry tissue in your bag."
+  },
+
+
+  "image12": {
+    "name": "Toothpick",
+    "date": "???",
+    "regularity": "Not used yet",
+    "price": "Free",
+    "rating": "10/10",
+    "comment": "Dental hygiene!!!!!! Super super important."
+  },
+
+  "image13": {
+    "name": "Chanel Lip and Cheek Balm",
+    "date": "May 2023",
+    "regularity": "Everyday",
+    "price": "￦59,000",
+    "rating": "8/10",
+    "comment": "I tried out the one my friend has and I really liked it so I got one for myself. I think the formula and the color is really nice and natural."
+  }
+}
