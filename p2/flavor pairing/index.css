@@ -26,6 +26,7 @@ body {
 	color: black;
 	display: inline-block;
 	width: 200px;
+	/* height: 100px; */
 	height: auto;
 	margin-right: 10px;
 	margin-bottom: 20px;
@@ -34,6 +35,10 @@ body {
 	padding: 10px;
 	padding-bottom: 30px;
 	font-family: helvetica;
+}
+
+.info.open {
+  height: auto;
 }
 
 

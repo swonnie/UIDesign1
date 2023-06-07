@@ -83,6 +83,7 @@ a {
 #container1.darkmode {
 	background-color: black;
 	color: white;
+	/* transition: background-color 500ms ease; */
 }
 
 #container2.darkmode {
