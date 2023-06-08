@@ -58,4 +58,3 @@ $(document).ready(function() {
       $("#container6").toggleClass('darkmode');
     });
   });
-
